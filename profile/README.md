@@ -1,4 +1,4 @@
-# LED AESAS (AESCAS)
+# LED ESAS (AESCAS)
 
 ## Sobre o Projeto
 LED AESAS (Laboratórios de Educação Digital - AESAS) é um sistema de gestão para dois laboratórios de tecnologia, permitindo que professores reservem equipamentos individuais ou salas inteiras para as suas aulas. Além disso, conta com uma dashboard administrativa para gerenciamento de equipamentos, professores e estatísticas de uso.
